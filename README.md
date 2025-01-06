@@ -5,4 +5,4 @@
 - 리스트2
 
 [네이버](http://www.naver.com).
-[구글](httep://www.google.com).
+[구글](http://www.google.com).
